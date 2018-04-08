@@ -1,4 +1,4 @@
-# Causal-Machine-Learning-CS590Project
+# CS590 Project: Optimization Under Fairness Constrains
 
 This project addresses the problem of unfairness decision making process in machine learning implementations. Machine Learning systems will be driving entire industry decisions and, more broadly, supporting large-scale decision-making process to solve society’s most challenging problems. Issues of unfairness and discrimination are pervasive when decisions
 are being made by humans, which, unfortunately, are not automatically solved, and can even be amplified, when machines are put in control. 
